@@ -10,7 +10,7 @@ metadata:
     component: app
   name: {{ .Chart.Name }}
 spec:
-  replicas: 2
+  replicas: 5
   selector:
     matchLabels:
       app: my-app3
