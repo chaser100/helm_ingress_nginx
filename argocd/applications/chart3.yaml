@@ -17,7 +17,7 @@ spec:
 
   destination:
     server: https://kubernetes.default.svc
-    namespace: app3
+    namespace: app3333
 
   syncPolicy:
     automated:
